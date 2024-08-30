@@ -1,4 +1,4 @@
-.. image:: docs/_static/img/emblazon.png
+.. image:: image/emblazon.png
 
 ---------------------------------------------------------------------
 
