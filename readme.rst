@@ -132,9 +132,9 @@ a function of their previous interactions:
 Examples
 ~~~~~~~~
 
-1. `Rating prediction on the Movielens dataset <https://github.com/maciejkula/emblazon/tree/master/examples/movielens_explicit>`_.
-2. `Using causal convolutions for sequence recommendations <https://github.com/maciejkula/emblazon/tree/master/examples/movielens_sequence>`_.
-3. `Bloom embedding layers <https://github.com/maciejkula/emblazon/tree/master/examples/bloom_embeddings>`_.
+1. `Rating prediction on the Movielens dataset <https://github.com/SanketHingne/emblazon/tree/master/examples/movielens_explicit>`_.
+2. `Using causal convolutions for sequence recommendations <https://github.com/SanketHingne/emblazon/tree/master/examples/movielens_sequence>`_.
+3. `Bloom embedding layers <https://github.com/SanketHingne/emblazon/tree/master/examples/bloom_embeddings>`_.
 
 
 How to cite
@@ -144,12 +144,12 @@ Please cite Emblazon if it helps your research. You can use the following BibTeX
 
 .. code-block::
 
-   @misc{kula2017emblazon,
+   @misc{sanket2024emblazon,
      title={Emblazon},
-     author={Kula, Maciej},
-     year={2017},
+     author={Sanket Hingne},
+     year={2014},
      publisher={GitHub},
-     howpublished={\url{https://github.com/maciejkula/emblazon}},
+     howpublished={\url{https://github.com/SanketHingne/emblazon}},
    }
 
 
@@ -158,4 +158,4 @@ Contributing
 
 emblazon is meant to be extensible: pull requests are welcome. Development progress is tracked on `Trello <https://trello.com/b/G5iFgS1W/emblazon>`_: have a look at the outstanding tickets to get an idea of what would be a useful contribution.
 
-We accept implementations of new recommendation models into the Emblazon model zoo: if you've just published a paper describing your new model, or have an implementation of a model from the literature, make a PR!
+I accept implementations of new recommendation models into the Emblazon model zoo: if you've just published a paper describing your new model, or have an implementation of a model from the literature, make a PR!
