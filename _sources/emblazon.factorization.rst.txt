@@ -1,0 +1,37 @@
+emblazon.factorization package
+==============================
+
+Submodules
+----------
+
+emblazon.factorization.explicit module
+--------------------------------------
+
+.. automodule:: emblazon.factorization.explicit
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+emblazon.factorization.implicit module
+--------------------------------------
+
+.. automodule:: emblazon.factorization.implicit
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+emblazon.factorization.representations module
+---------------------------------------------
+
+.. automodule:: emblazon.factorization.representations
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Module contents
+---------------
+
+.. automodule:: emblazon.factorization
+   :members:
+   :undoc-members:
+   :show-inheritance:

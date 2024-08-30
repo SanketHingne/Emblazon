@@ -1,0 +1,87 @@
+emblazon package
+================
+
+Subpackages
+-----------
+
+.. toctree::
+   :maxdepth: 4
+
+   emblazon.datasets
+   emblazon.factorization
+   emblazon.sequence
+
+Submodules
+----------
+
+emblazon.cross\_validation module
+---------------------------------
+
+.. automodule:: emblazon.cross_validation
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+emblazon.evaluation module
+--------------------------
+
+.. automodule:: emblazon.evaluation
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+emblazon.helpers module
+-----------------------
+
+.. automodule:: emblazon.helpers
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+emblazon.interactions module
+----------------------------
+
+.. automodule:: emblazon.interactions
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+emblazon.layers module
+----------------------
+
+.. automodule:: emblazon.layers
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+emblazon.losses module
+----------------------
+
+.. automodule:: emblazon.losses
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+emblazon.sampling module
+------------------------
+
+.. automodule:: emblazon.sampling
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+emblazon.torch\_utils module
+----------------------------
+
+.. automodule:: emblazon.torch_utils
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Module contents
+---------------
+
+.. automodule:: emblazon
+   :members:
+   :undoc-members:
+   :show-inheritance:

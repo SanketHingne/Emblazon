@@ -1,0 +1,45 @@
+emblazon.datasets package
+=========================
+
+Submodules
+----------
+
+emblazon.datasets.amazon module
+-------------------------------
+
+.. automodule:: emblazon.datasets.amazon
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+emblazon.datasets.goodbooks module
+----------------------------------
+
+.. automodule:: emblazon.datasets.goodbooks
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+emblazon.datasets.movielens module
+----------------------------------
+
+.. automodule:: emblazon.datasets.movielens
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+emblazon.datasets.synthetic module
+----------------------------------
+
+.. automodule:: emblazon.datasets.synthetic
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Module contents
+---------------
+
+.. automodule:: emblazon.datasets
+   :members:
+   :undoc-members:
+   :show-inheritance:

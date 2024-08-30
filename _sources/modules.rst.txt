@@ -1,0 +1,9 @@
+Emblazon-main
+=============
+
+.. toctree::
+   :maxdepth: 4
+
+   build_readme
+   emblazon
+   setup

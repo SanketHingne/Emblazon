@@ -1,0 +1,29 @@
+emblazon.sequence package
+=========================
+
+Submodules
+----------
+
+emblazon.sequence.implicit module
+---------------------------------
+
+.. automodule:: emblazon.sequence.implicit
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+emblazon.sequence.representations module
+----------------------------------------
+
+.. automodule:: emblazon.sequence.representations
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Module contents
+---------------
+
+.. automodule:: emblazon.sequence
+   :members:
+   :undoc-members:
+   :show-inheritance:
