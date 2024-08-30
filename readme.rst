@@ -156,6 +156,6 @@ Please cite Emblazon if it helps your research. You can use the following BibTeX
 Contributing
 ~~~~~~~~~~~~
 
-emblazon is meant to be extensible: pull requests are welcome. Development progress is tracked on `Trello <https://trello.com/b/G5iFgS1W/emblazon>`_: have a look at the outstanding tickets to get an idea of what would be a useful contribution.
+emblazon is meant to be extensible: pull requests are welcome. For Documentation click https://sankethingne.github.io/Emblazon/
 
 I accept implementations of new recommendation models into the Emblazon model zoo: if you've just published a paper describing your new model, or have an implementation of a model from the literature, make a PR!
