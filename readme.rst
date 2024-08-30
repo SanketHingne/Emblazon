@@ -31,7 +31,6 @@ factorization representations, deep sequence models), and utilities for fetching
 (or generating) recommendation datasets, it aims to be a tool for rapid exploration
 and prototyping of new recommender models.
 
-See the full `documentation <https://maciejkula.github.io/emblazon/>`_ for details.
 
 Installation
 ~~~~~~~~~~~~
