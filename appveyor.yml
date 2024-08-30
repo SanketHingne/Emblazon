@@ -1,0 +1,25 @@
+build: false
+
+environment:
+  global:
+      REQUIREMENTS: "numpy scipy requests h5py scikit-learn pytest flake8 pytorch torchvision cpuonly"
+
+  matrix:
+    - PYTHON_VERSION: 3.12
+      MINICONDA: C:\Miniconda3-x64
+
+
+init:
+  - "ECHO %PYTHON_VERSION% %MINICONDA%"
+
+install:
+  - "set PATH=%MINICONDA%;%MINICONDA%\\Scripts;%PATH%"
+  - conda config --set always_yes yes --set changeps1 no
+  - conda create -n emblazon-env -c pytorch %REQUIREMENTS% python=%PYTHON_VERSION%
+  - activate emblazon-env
+  - pip install torchvision
+  - pip install -e .
+
+test_script:
+  - activate emblazon-env
+  - pytest tests/
