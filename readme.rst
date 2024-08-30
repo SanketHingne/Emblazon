@@ -147,7 +147,7 @@ Please cite Emblazon if it helps your research. You can use the following BibTeX
    @misc{sanket2024emblazon,
      title={Emblazon},
      author={Sanket Hingne},
-     year={2014},
+     year={2024},
      publisher={GitHub},
      howpublished={\url{https://github.com/SanketHingne/emblazon}},
    }
