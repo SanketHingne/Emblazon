@@ -15,7 +15,7 @@ Installation
 
 .. code-block:: python
 
-   conda install -c maciejkula -c pytorch emblazon
+   conda install -c SanketHingne -c pytorch emblazon
 
 
 Usage
