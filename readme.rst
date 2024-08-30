@@ -2,28 +2,6 @@
 
 ---------------------------------------------------------------------
 
-.. inclusion-marker-do-not-remove
-
-.. image:: https://travis-ci.org/maciejkula/emblazon.svg?branch=master
-   :target: https://travis-ci.org/maciejkula/emblazon
-
-.. image:: https://ci.appveyor.com/api/projects/status/jq5e76a7a08ra2ji/branch/master?svg=true
-   :target: https://ci.appveyor.com/project/maciejkula/emblazon/branch/master
-
-.. image:: https://badges.gitter.im/gitterHQ/gitter.png
-   :target: https://gitter.im/emblazon-recommendations/Lobby
-
-.. image:: https://anaconda.org/maciejkula/emblazon/badges/version.svg
-   :target: https://anaconda.org/maciejkula/emblazon
-
-.. image:: https://img.shields.io/badge/docs-latest-brightgreen.svg?style=flat
-   :target: https://maciejkula.github.io/emblazon/
-
-.. image:: https://img.shields.io/badge/progress%20tracker-trello-brightgreen.svg
-   :target: https://trello.com/b/G5iFgS1W/emblazon
-
-|
-
 Emblazon uses `PyTorch <http://pytorch.org/>`_ to build both deep and shallow
 recommender models. By providing both a slew of building blocks for loss functions
 (various pointwise and pairwise ranking losses), representations (shallow
