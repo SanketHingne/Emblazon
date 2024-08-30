@@ -156,6 +156,6 @@ Please cite Emblazon if it helps your research. You can use the following BibTeX
 Contributing
 ~~~~~~~~~~~~
 
-emblazon is meant to be extensible: pull requests are welcome. For Documentation click https://sankethingne.github.io/Emblazon/
+Emblazon is meant to be extensible. Pull requests are welcome. For more details and documentation visit https://sankethingne.github.io/Emblazon/
 
 I accept implementations of new recommendation models into the Emblazon model zoo: if you've just published a paper describing your new model, or have an implementation of a model from the literature, make a PR!
